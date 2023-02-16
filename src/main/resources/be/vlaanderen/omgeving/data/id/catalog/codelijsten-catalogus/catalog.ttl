@@ -58,6 +58,6 @@ omg_catalog:codelijst
         dcterms:spatial       <https://www.geonames.org/3337388/flanders> , country:BEL ;
         dcterms:title         "Catalogus van datasets, codelijsten, van het domein omgeving."@nl ;
         void:rootResource     omg_catalog:codelijst ;
-        owl:versionInfo       "0.0.2" ;
+        owl:versionInfo       "1.0.0" ;
         dcat:contactPoint     omg_vcard:helpdesk ;
         foaf:homepage         <https://data.omgeving.vlaanderen.be/doc/catalog/codelijst.html> .

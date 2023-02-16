@@ -39,7 +39,7 @@
     "dcterms:language": {
         "@id": "language:NLD"
     },
-    "owl:versionInfo": "0.0.2",
+    "owl:versionInfo": "1.0.0",
     "dcterms:description": {
         "@language": "nl",
         "@value": "De codelijsten met betrekking tot het hele domein omgeving van de Vlaamse Overheid."
