@@ -21,6 +21,7 @@
     <tag>${bamboo.SVN</tag>
   </scm>
   <build>
+    <!-- hier komt een plugin die toelaat om verschillende versies naast elkaar toelaat -->
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
