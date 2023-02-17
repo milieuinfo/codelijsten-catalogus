@@ -70,37 +70,37 @@
     <dependency>
       <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
       <artifactId>codelijst-bioindicator</artifactId>
-      <version>1.0.4</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
       <artifactId>codelijst-chemische_stof</artifactId>
-      <version>1.0.10</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
       <artifactId>codelijst-emissie</artifactId>
-      <version>1.0.5</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
       <artifactId>codelijst-fysico-chemische-eigenschap</artifactId>
-      <version>1.0.7</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
       <artifactId>codelijst-matrix</artifactId>
-      <version>1.0.6</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
       <artifactId>codelijst-observatieprocedure</artifactId>
-      <version>1.0.5</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
       <artifactId>codelijst-sommatie_stoffen</artifactId>
-      <version>1.0.7</version>
+      <version>1.1.1</version>
     </dependency>
   </dependencies>
 </project>
