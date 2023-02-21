@@ -10,7 +10,7 @@
   <packaging>jar</packaging>
   <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
   <artifactId>codelijsten-catalogus</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.1.0-SNAPSHOT</version>
   <name>codelijsten-catalogus</name>
   <description />
 
@@ -39,13 +39,13 @@
                                 <artifactItem>
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-chemische_stof</artifactId>
-                                    <version>1.1.0</version>
+                                    <version>1.1.2</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
                                         <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                             <pattern>^(.*)/([^/]+\.[^.]+)$</pattern>
-                                            <replacement>$1/1.1.0/$2</replacement>
+                                            <replacement>$1/1.1.2/$2</replacement>
                                         </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     </fileMappers>
                                 </artifactItem>
@@ -53,7 +53,7 @@
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-chemische_stof</artifactId>
                                     <version>1.1.1</version>
-                                    <classifier>metadata</classifier>
+                                    <!--<classifier>metadata</classifier>-->
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
@@ -66,78 +66,78 @@
                                 <artifactItem>
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-bioindicator</artifactId>
-                                    <version>1.1.1</version>
+                                    <version>1.1.2</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
                                         <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                             <pattern>^(.*)/([^/]+\.[^.]+)$</pattern>
-                                            <replacement>$1/1.1.1/$2</replacement>
+                                            <replacement>$1/1.1.2/$2</replacement>
                                         </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     </fileMappers>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-emissie</artifactId>
-                                    <version>1.1.1</version>
+                                    <version>1.1.2</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
                                         <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                             <pattern>^(.*)/([^/]+\.[^.]+)$</pattern>
-                                            <replacement>$1/1.1.1/$2</replacement>
+                                            <replacement>$1/1.1.2/$2</replacement>
                                         </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     </fileMappers>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-fysico-chemische-eigenschap</artifactId>
-                                    <version>1.1.1</version>
+                                    <version>1.1.2</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
                                         <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                             <pattern>^(.*)/([^/]+\.[^.]+)$</pattern>
-                                            <replacement>$1/1.1.1/$2</replacement>
+                                            <replacement>$1/1.1.2/$2</replacement>
                                         </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     </fileMappers>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-matrix</artifactId>
-                                    <version>1.1.1</version>
+                                    <version>1.1.2</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
                                         <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                             <pattern>^(.*)/([^/]+\.[^.]+)$</pattern>
-                                            <replacement>$1/1.1.1/$2</replacement>
+                                            <replacement>$1/1.1.2/$2</replacement>
                                         </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     </fileMappers>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-observatieprocedure</artifactId>
-                                    <version>1.1.1</version>
+                                    <version>1.1.2</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
                                         <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                             <pattern>^(.*)/([^/]+\.[^.]+)$</pattern>
-                                            <replacement>$1/1.1.1/$2</replacement>
+                                            <replacement>$1/1.1.2/$2</replacement>
                                         </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     </fileMappers>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
                                     <artifactId>codelijst-sommatie_stoffen</artifactId>
-                                    <version>1.1.1</version>
+                                    <version>1.1.2</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
                                     <fileMappers>
                                         <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                             <pattern>^(.*)/([^/]+\.[^.]+)$</pattern>
-                                            <replacement>$1/1.1.1/$2</replacement>
+                                            <replacement>$1/1.1.2/$2</replacement>
                                         </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     </fileMappers>
                                 </artifactItem>
