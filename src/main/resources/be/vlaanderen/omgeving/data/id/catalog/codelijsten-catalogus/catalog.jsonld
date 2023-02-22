@@ -19,10 +19,6 @@
         "@value": "nl"
     },
     "@type": "dcat:Catalog",
-    "dcterms:issued": {
-        "@value": "2023-02-16",
-        "@type": "xsd:date"
-    },
     "dcterms:title": {
         "@language": "nl",
         "@value": "Catalogus van datasets, codelijsten, van het domein omgeving."
@@ -35,11 +31,15 @@
         "@language": "nl",
         "@value": "Catalogus van datasets, codelijsten, van het domein omgeving."
     },
+    "dcterms:issued": {
+        "@value": "2023-02-21",
+        "@type": "xsd:date"
+    },
     "dc:identifier": "be.vlaanderen.omgeving.data.id.catalog.codelijst",
     "dcterms:language": {
         "@id": "language:NLD"
     },
-    "owl:versionInfo": "1.0.0",
+    "owl:versionInfo": "1.1.0",
     "dcterms:description": {
         "@language": "nl",
         "@value": "De codelijsten met betrekking tot het hele domein omgeving van de Vlaamse Overheid."
