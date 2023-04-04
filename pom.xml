@@ -10,15 +10,15 @@
     <packaging>jar</packaging>
     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
     <artifactId>codelijsten-catalogus</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <name>codelijsten-catalogus</name>
-    <description/>
+    <description />
 
     <scm>
         <connection>scm:git:https://github.com/milieuinfo/codelijsten-catalogus.git</connection>
         <developerConnection>scm:git:https://github.com/milieuinfo/codelijsten-catalogus.git</developerConnection>
         <url>https://github.com/milieuinfo/codelijsten-catalogus.git</url>
-        <tag>${bamboo.SVN</tag>
+        <tag>codelijsten-catalogus-1.1.1</tag>
     </scm>
     <build>
         <plugins>
