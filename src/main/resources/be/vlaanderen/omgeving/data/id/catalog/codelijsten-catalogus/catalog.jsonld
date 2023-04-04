@@ -24,6 +24,10 @@
         "@value": "Catalogus van datasets, codelijsten, van het domein omgeving."
     },
     "dc:source": "Codelijsten omgeving.",
+    "dcterms:issued": {
+        "@value": "2023-04-03",
+        "@type": "xsd:date"
+    },
     "dcterms:identifier": {
         "@id": "omg_catalog:codelijst"
     },
@@ -38,10 +42,6 @@
     "dcterms:description": {
         "@language": "nl",
         "@value": "De codelijsten met betrekking tot het hele domein omgeving van de Vlaamse Overheid."
-    },
-    "dcterms:issued": {
-        "@value": "2023-02-22",
-        "@type": "xsd:date"
     },
     "owl:versionInfo": "1.1.1",
     "dcterms:alternative": {

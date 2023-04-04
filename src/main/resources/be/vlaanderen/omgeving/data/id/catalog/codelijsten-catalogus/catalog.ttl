@@ -50,7 +50,7 @@ omg_catalog:codelijst
         dcterms:alternative   "Dataset catalogus codelijsten omgeving."@nl ;
         dcterms:description   "De codelijsten met betrekking tot het hele domein omgeving van de Vlaamse Overheid."@nl ;
         dcterms:identifier    omg_catalog:codelijst ;
-        dcterms:issued        "2023-02-22"^^xsd:date ;
+        dcterms:issued        "2023-04-03"^^xsd:date ;
         dcterms:language      language:NLD ;
         dcterms:license       <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0> ;
         dcterms:publisher     ovo:OVO003323 ;
