@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
     <artifactId>codelijsten-catalogus</artifactId>
-    <version>1.1.3-SNAPSHOT</version>
+    <version>2.0.0-SNAPSHOT</version>
     <name>codelijsten-catalogus</name>
     <description />
 
@@ -74,44 +74,44 @@
         <dependency>
             <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
             <artifactId>codelijst-emissie</artifactId>
-            <version>2.0.0</version>
+            <version>2.1.0</version>
             <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
             <artifactId>codelijst-bioindicator</artifactId>
-            <version>1.1.2</version>
+            <version>2.0.0</version>
             <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
             <artifactId>codelijst-chemische_stof</artifactId>
-            <version>1.1.2</version>
+            <version>2.0.0</version>
             <optional>true</optional>
 <!--            <version>1.1.1</version>-->
         </dependency>
         <dependency>
             <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
             <artifactId>codelijst-fysico-chemische-eigenschap</artifactId>
-            <version>1.1.2</version>
+            <version>2.0.0</version>
             <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
             <artifactId>codelijst-matrix</artifactId>
-            <version>1.1.2</version>
+            <version>2.0.0</version>
             <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
             <artifactId>codelijst-observatieprocedure</artifactId>
-            <version>1.1.2</version>
+            <version>2.0.0</version>
             <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
             <artifactId>codelijst-sommatie_stoffen</artifactId>
-            <version>1.1.2</version>
+            <version>2.0.0</version>
             <optional>true</optional>
         </dependency>
     </dependencies>
